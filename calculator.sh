@@ -1,5 +1,5 @@
 echo "welcome"
-num1=10
+num1=15
 num2=20
 sum=$(($num1+$num2))
 echo "The Addition is "$sum
